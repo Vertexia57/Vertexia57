@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey!
+Thanks for checking out my profile! Go check out some of my projects
+I'm currently working on a complete rewrite of my rendering and audio engine!
 
 <!--
 **Vertexia57/Vertexia57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
